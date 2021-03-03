@@ -15,6 +15,7 @@
 java -jar MergeSort.jar -i -a out.txt in.txt (для целых чисел по возрастанию)
 java -jar MergeSort.jar -s out.txt in1.txt in2.txt in3.txt (для строк по возрастанию)
 java -jar MergeSort.jar -d -s out.txt in1.txt in2.txt (для строк по убыванию)
+
 ---
 ***Алгоритм работы:***
 1. Считывание данных аргументов командной строки
